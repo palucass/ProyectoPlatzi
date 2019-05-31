@@ -23,13 +23,13 @@ body {
 }
 
 header{
-    color: rgb(109, 109, 109);
+    color: red;
     font-size: 50px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif
 }
 p{
-    color: rgb(172, 172, 172);
+    color: red;
     font-size: 20px;
     text-align: justify;
     margin-left: 12%;
@@ -38,5 +38,5 @@ p{
 h5{
     text-align: center;
     font-size: 20px;
-    color: rgb(138, 138, 138);
+    color:rgb(70, 28, 223);
 }
