@@ -40,3 +40,10 @@ h5{
     font-size: 20px;
     color: rgb(177, 176, 176);
 }
+.footer{
+background: rgb(87, 87, 87);
+padding: 15px;    
+}
+.txt_footer{
+    text-align: center;
+}
