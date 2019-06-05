@@ -47,3 +47,7 @@ padding: 15px;
 .txt_footer{
     text-align: center;
 }
+.content{
+    padding-left: 160px;
+    padding-right: 160px;
+}
